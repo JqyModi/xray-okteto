@@ -1,5 +1,6 @@
 services:
-  okvtwo: nodevpn
+  okvtwo:
+    image: nodevpn
     build: .
     shm_size: 2.6gb
     ports:
