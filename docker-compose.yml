@@ -1,5 +1,5 @@
 services:
-  okvtwo: v2ray-okteto
+  okvtwo: nodevpn
     build: .
     shm_size: 2.6gb
     ports:
